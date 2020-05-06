@@ -18,7 +18,7 @@ class Dog
 
   def self.print_all
     all.each do |mem|
-        puts mem.name
+        puts mem
     end
   end
 
